@@ -3,11 +3,11 @@
 // By Sirmabus
 // http://www.macromonkey.com
 // License: Qt 5.4.1 LGPL  http://www.qt.io/faq/
-#define WIN32_LEAN_AND_MEAN
+/*#define WIN32_LEAN_AND_MEAN
 #define WINVER       0x0601 // _WIN32_WINNT_WIN7
 #define _WIN32_WINNT 0x0601
 #include <Windows.h>
-#include <exception>
+#include <exception>*/o
 
 #include <QtCore/QTextStream>
 #include <QtCore/QFile>
